@@ -23,10 +23,10 @@ This dashboard allows users to:
 ---
 
 ## 🛠️ Technologies Used
-- **JavaScript** (ES6+)
-- **D3.js** (for fetching and handling data)
+- **HTML** (for structuring the page)
+- **JavaScript** (for interactivity)
+- **D3.js** (for fetching and handling JSON data)
 - **Plotly.js** (for creating interactive charts)
-- **HTML & CSS** (for styling and layout)
 - **GitHub Pages** (for deployment)
 
 ---
@@ -54,4 +54,6 @@ The project is deployed using GitHub Pages.
 Any updates pushed to the main branch will be automatically reflected in the live dashboard.
 ---
 📜 Attribution and Code Sources
-This project was developed as part of a bootcamp program. The code for database setup, updates, and analysis was created using Python libraries and MongoDB documentation.
+This project was developed as part of a bootcamp program.
+The code for data visualization, interactive charts, and dynamic updates was written in JavaScript using D3.js and Plotly.js.
+The dataset was provided in JSON format and fetched dynamically for visualization.
